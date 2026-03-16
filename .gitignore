@@ -1,0 +1,26 @@
+__pycache__/
+venv/
+.env
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+develop-eggs/
+.eggs/
+lib/
+lib64/
+parts/
+dist/
+build/
+
+# Logs
+*.log
+*.log.*
+
+# Alembic migrations
+db.sqlite3
+alembic/versions/*.pyc
